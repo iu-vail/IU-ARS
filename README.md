@@ -5,7 +5,7 @@
 This repository contains the official dataset for the paper **"From Zero to High-Speed Racing: An Autonomous Racing Stack,"** from the IU Luddy Autonomous Racing team at Indiana University.
 
 ![IU Autonomous Race Car](assets/images/racecar_on_track.jpg)
-*The IU Luddy Team's Dallara AV-21 on the Indianapolis Motor Speedway.*
+*The IU Luddy Team's Dallara AV-24 on the Indianapolis Motor Speedway.*
 
 ---
 
