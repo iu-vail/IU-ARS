@@ -15,4 +15,4 @@ This repository contains the official dataset for the paper **"From Zero to High
 
 ---
 # To be Edited later
-[![From Zero to High-Speed Racing: An Autonomous Racing Stack](http://www.youtube.com/watch?v=J-LmZuEMytE)](https://www.youtube.com/watch?v=VIDEO_ID0)
+[![From Zero to High-Speed Racing: An Autonomous Racing Stack](http://www.youtube.com/watch?v=J-LmZuEMytE)](https://www.youtube.com/watch?v=J-LmZuEMytE)
